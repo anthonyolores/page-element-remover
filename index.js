@@ -12,7 +12,7 @@
 (function() {
     'use strict';
 
-    //element's class name to be hidden
+    //element's selector
     hideElements(
         [
          ".HighlightMotor",
